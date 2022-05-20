@@ -1,0 +1,76 @@
+#menu a:hover {
+      color: blue;
+      text-decoration: none;
+      }
+      h2#pres{
+            text-align: center;
+      }
+      #moncv h3{
+            text-align: center;
+            color: orange;
+      }
+      div#pied{
+            text-align: right;
+      }
+      #moncv p{
+            text-indent: 4em;
+      }
+      #inscription form {
+            width: 400px;
+            border-radius: 5px;
+            background-color: rgb(183, 189, 189);
+            border: solid rgba(104, 100, 100, 0.932) 3px;
+            padding-left: 30px;
+            padding-right: 30px;
+      }
+      #inscription div {
+            position: absolute;
+            height: ;
+            left: 25%
+      }
+      fieldset#set {
+            border-style: dashed; border-color: rgb(136, 161, 161);
+      }
+      fieldset#set2 {
+            border-style: dashed; border-color: rgb(136, 161, 161);
+      }
+      legend#sam, legend#samo {
+            color: rgb(93, 148, 148); font-style: italic;
+      }
+      button{
+            background-color: silver;
+      }
+      select#pays, select#photo {
+            background-color: lightgrey;
+            color: grey;
+      }
+      #set input {
+            color: cadetblue;
+      }
+      #set2 input {
+            color: cadetblue;
+      }
+      h1#def {
+            text-align: center;
+      }
+      blockquote{
+            
+      }
+      #presentation h2{
+            color: skyblue;
+      }
+      body#body{
+            background-color: peachpuff;
+      }
+      button{
+            background-color: salmon;
+      }
+      input#nom, input#prenom, input#email, input#passeword{
+            background-color: lightgrey;
+      }
+      body#liens{
+            background-color: grey;
+      }
+      body#bienvenue{
+            background-color: silver;
+      }
